@@ -1,6 +1,8 @@
 const users = [
     { id: 1, name: 'Alice', email: 'alice@test.com' },
-    { id: 2, name: 'Bob', email: 'bob@test.com' }
+    { id: 2, name: 'Bob', email: 'bob@test.com' },
+    { id: 3, name: 'Francis', email: 'francis@test.com' },
+    { id: 4, name: 'Miguel', email: 'miguel@test.com' },
 ];
 
 class UserModel {
